@@ -1,1 +1,1 @@
-# Water_Body_Scrapping
+# Water body image scrapping using mechanical soup
